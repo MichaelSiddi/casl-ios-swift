@@ -1,0 +1,55 @@
+# Swift Package Manager
+.build/
+.swiftpm/
+DerivedData/
+*.xcodeproj
+*.xcworkspace
+*.xcuserdata/
+*.xcuserdatad/
+
+# Build artifacts
+*.swiftmodule
+*.swiftdoc
+*.swiftsourceinfo
+Packages/
+
+# Xcode
+xcuserdata/
+*.moved-aside
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.pbxuser
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# Logs
+*.log
+
+# Environment
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Testing
+.build-test/
+*.profraw
+*.profdata
+
+# Documentation
+.docc-build/
+
+# Temporary
+*.tmp
+*.swp
+*~.nib
