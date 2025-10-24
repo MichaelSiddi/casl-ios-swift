@@ -53,3 +53,8 @@ xcuserdata/
 *.tmp
 *.swp
 *~.nib
+
+# Specify and Claude Code
+.specify/
+.claude/
+specs/
